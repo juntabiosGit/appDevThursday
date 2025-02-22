@@ -64,6 +64,7 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
+        System.out.rintln("Abdulmoed Gamoranao - BSIT-2L");
 	
 
 
