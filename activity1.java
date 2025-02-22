@@ -18,8 +18,7 @@ public class Activity1 {
         System.out.println("John Cedric Dolom - BSIT - 2K");
         System.out.println("Jay Mark R. Piano - 2L");
         System.out.println("Geringer, Ivan Rolf G - BSIT-2L");
-
-System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
+       System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 
 
@@ -65,7 +64,7 @@ System.out.println("Justin Emmanuel P. Delbo - BSIT2L");
 
 	System.out.println("Angel Mae Valdez - BSIT-2K");
 	
-
+	System.out.println("Angelica Batuigsd - BSIT-2K");
 
 
      }
