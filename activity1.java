@@ -4,7 +4,7 @@ public class Activity1 {
 
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name - Section");
-
+	   System.out.println("Shane Arianne Pol- BSIT-2L");
 	  System.out.println("Iverson T. De Guzman - BSIT-2L"); 
 
 
