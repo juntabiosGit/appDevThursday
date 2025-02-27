@@ -1,5 +1,0 @@
-public class Bermejo {
-    public static void display() {
-        System.out.println("Hello! This is Bermejo contributing to the project.");
-    }
-}
