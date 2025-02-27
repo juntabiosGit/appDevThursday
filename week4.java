@@ -16,7 +16,7 @@ public class week4 {
          ClarkKurt.display();
          Hernandez.display(); 
          Piano.display();
-
+         Policarpio.display();
 Oliveros.display();
 
 Hallig.display()
@@ -36,4 +36,3 @@ Santander.display()
 
     }
 }
-
