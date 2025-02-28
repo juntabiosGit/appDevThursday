@@ -16,21 +16,20 @@ public class week4 {
          ClarkKurt.display();
          Hernandez.display(); 
          Piano.display();
+         Oliveros.display();
+        
+        Hallig.display()
 
-Oliveros.display();
-
-Hallig.display()
-
-Pascua.display();
-	Smith.display();
-	Piano.display();
-	Geringer.display();
-	ClarkKurt.display();
-	Hernandez.display(); 
-	Piano.display();
-	KPClark.display();
-
-	Bermejo.display();
+         Pascua.display();
+	     Smith.display();
+	     Piano.display();
+	     Geringer.display();
+	     ClarkKurt.display();
+	     Hernandez.display(); 
+	     Piano.display();
+	     KPClark.display();
+         Clapis.display();
+	     Bermejo.display();
 
 Santander.display()
 
