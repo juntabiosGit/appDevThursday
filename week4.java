@@ -3,37 +3,21 @@ public class week4 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
-
-        //student1.display();
-       // Add your method below
+        // student1.display();
+        // Add your method below
         // More students will add their method calls here...
 
-
+        Piano.display();
         Hallig.display()
-
-         Piano.display();
-         Geringer.display();
-         ClarkKurt.display();
-         Hernandez.display(); 
-         Piano.display();
-
-Oliveros.display();
-
-Hallig.display()
-
-Pascua.display();
-	Smith.display();
-	Piano.display();
-	Geringer.display();
-	ClarkKurt.display();
-	Hernandez.display(); 
-	Piano.display();
-	KPClark.display();
-
-	Bermejo.display();
-
-Santander.display()
-
+        Geringer.display();
+        ClarkKurt.display();
+        Hernandez.display(); 
+        Oliveros.display();
+        Santander.display()
+        Pascua.display();
+	    Smith.display();
+	    KPClark.display();
+	    Bermejo.display();
     }
 }
 
