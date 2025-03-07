@@ -1,4 +1,4 @@
-public class Dela Torre {
+public class DelaTorre {
     public static void display() {
         int age = 19; // Replace with user input if necessary
         System.out.println("Hello! This is Dela Torre contributing to the project.");
