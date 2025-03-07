@@ -35,7 +35,8 @@ public class week5 {
         Hernandez.display();
         Alcantara.display();
         Santander.display();
-		NMasagca.display();
+	NMasagca.display();
+	Clapis.display();
 
 
     }
